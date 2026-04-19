@@ -12,11 +12,10 @@ I'm a Robotics Student diving deep into Embodied AI Research. My current focus i
 <details>
 <summary><b>▼ 中文版个人简介 (Click to expand)</b></summary>
 <br>
-你好！我是 <b>占梦天 (Mengtian Zhan)</b>，机器人工程本科大二在读，主要研究方向为具身人工智能 (Embodied AI)。
+你好！我是 <b>张量</b>，机器人工程本科大二在读，主要研究方向为具身人工智能 (Embodied AI)。
 
 我的研发方向聚焦于让机器人理解物理世界并做出智能决策，熟悉强化学习算法及其在机器人控制中的落地应用。我相信未来的机器人将拥有更强大的自主学习与适应能力。
 
-*Always open to collaborations on open-source robotics projects or in-depth technical discussions!*
 </details>
 
 ---
