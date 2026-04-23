@@ -27,7 +27,7 @@ I'm a Robotics Engineering student and a highly driven researcher in **Embodied 
   Secondary development framework for the Damiao 19-DOF bipedal humanoid robot. Research focus includes **RL-based gait optimization**, Sim-to-Real deployment strategies, and high-degree-of-freedom control on NVIDIA Orin platforms.
   `Reinforcement Learning` `Isaac Gym` `Sim-to-Real`
 
-* **[BPIC (Biased Parallel Infantry Controller)](https://github.com/Tensor-0/BPIC)**
+* **[BPIC (Biased Parallel Infantry Controller)](https://github.com/Tensor-0/dbrl-damiao-bipedal-rl)**
   C++ based motion control framework for RoboMaster biased parallel infantry chassis. Integrating non-linear **Kinematics solvers** and **LQR/VMC** balance control for highly dynamic terrestrial locomotion.
   `C++` `Kinematics` `LQR/VMC`
 
