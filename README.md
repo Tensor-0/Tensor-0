@@ -23,19 +23,19 @@ I'm a Robotics Engineering student and a highly driven researcher in **Embodied 
 
 ### 🗂️ Featured Research & Projects
 
-* **[DBRL (Damiao Bipedal Reinforcement Locomotion)](https://github.com/Tensor-0/DBRL)**
+* **[DBRL (Damiao Bipedal Reinforcement Locomotion)](https://github.com/Tensor-0/dbrl-damiao-bipedal-rl)**
   Secondary development framework for the Damiao 19-DOF bipedal humanoid robot. Research focus includes **RL-based gait optimization**, Sim-to-Real deployment strategies, and high-degree-of-freedom control on NVIDIA Orin platforms.
   `Reinforcement Learning` `Isaac Gym` `Sim-to-Real`
 
-* **[BPIC (Biased Parallel Infantry Controller)](https://github.com/Tensor-0/dbrl-damiao-bipedal-rl)**
+* **[BPIC (Biased Parallel Infantry Controller)](https://github.com/Tensor-0/rm-biased-parallel-controllerl)**
   C++ based motion control framework for RoboMaster biased parallel infantry chassis. Integrating non-linear **Kinematics solvers** and **LQR/VMC** balance control for highly dynamic terrestrial locomotion.
   `C++` `Kinematics` `LQR/VMC`
 
-* **[FDC (Friction Dart Controller)](https://github.com/Tensor-0/FDC)**
+* **[FDC (Friction Dart Controller)](https://github.com/Tensor-0/friction-dart-controller)**
   High-precision launch sequence framework for friction-wheel dart systems. Featuring dual-motor speed synchronization (PID/ADRC) and rigorous state-machine implementations.
   `Control Theory` `Embedded Systems`
 
-* **[GMFS (GoldMiner Full-Stack)](https://github.com/Tensor-0/GMFS)**
+* **[GMFS (GoldMiner Full-Stack)](https://github.com/Tensor-0/goldminer-robot-fullstack)**
   A comprehensive full-stack solution for autonomous retrieval robots. Integrates **OpenCV-based RGB/Digit detection** pipelines with real-time STM32 chassis drive algorithms.
   `STM32` `Computer Vision` `Full-Stack`
 
@@ -58,19 +58,19 @@ I'm a Robotics Engineering student and a highly driven researcher in **Embodied 
 
 ### 🗂️ 核心项目精选
 
-* **[DBRL: 达妙双足机器人强化学习框架](https://github.com/Tensor-0/DBRL)**
+* **[DBRL: 达妙双足机器人强化学习框架](https://github.com/Tensor-0/dbrl-damiao-bipedal-rL)**
   基于达妙 19 自由度双足机器人的二次开发项目。核心聚焦于 Isaac Gym 仿真环境搭建、强化学习步态寻优，以及将 ONNX 策略模型成功部署至真实硬件 (Sim-to-Real)。
   `强化学习 (RL)` `双足机器人` `具身智能`
 
-* **[BPIC: 偏置并联步兵底盘控制器](https://github.com/Tensor-0/BPIC)**
+* **[BPIC: 偏置并联步兵底盘控制器](https://github.com/Tensor-0/rm-biased-parallel-controllerl)**
   针对 RoboMaster 偏置并联机构开发的高频底层 C++ 框架。包含复杂的闭链运动学正逆解推导，以及基于 LQR 与 VMC (虚拟模型控制) 的倒立摆平衡控制。
   `C/C++` `运动学与动力学` `平衡控制`
 
-* **[FDC: 摩擦轮飞镖发射控制系统](https://github.com/Tensor-0/FDC)**
+* **[FDC: 摩擦轮飞镖发射控制系统](https://github.com/Tensor-0/friction-dart-controller)**
   聚焦极高精度的发弹时序与转速控制。应用 PID/ADRC 算法实现双电机高速同步闭环，构建了严谨的有限状态机 (FSM) 保障飞镖出膛稳定性。
   `STM32` `控制算法` `状态机`
 
-* **[GMFS: 黄金矿工全栈机器人方案](https://github.com/Tensor-0/GMFS)**
+* **[GMFS: 黄金矿工全栈机器人方案](https://github.com/Tensor-0/goldminer-robot-fullstack)**
   独立完成的综合型机器人开发项目。涵盖基于 OpenCV 的工业相机 RGB 灯板及数字识别视觉算法，机械臂精准抓取控制，以及底盘驱动融合。
   `全栈开发` `机器视觉` 
 
