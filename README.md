@@ -27,7 +27,7 @@ I'm a Robotics Engineering student and a highly driven researcher in **Embodied 
   Secondary development framework for the Damiao 19-DOF bipedal humanoid robot. Research focus includes **RL-based gait optimization**, Sim-to-Real deployment strategies, and high-degree-of-freedom control on NVIDIA Orin platforms.
   `Reinforcement Learning` `Isaac Gym` `Sim-to-Real`
 
-* **[BPIC (Biased Parallel Infantry Controller)](https://github.com/Tensor-0/rm-biased-parallel-controllerl)**
+* **[BPIC (Biased Parallel Infantry Controller)](https://github.com/Tensor-0/rm-biased-parallel-controller)**
   C++ based motion control framework for RoboMaster biased parallel infantry chassis. Integrating non-linear **Kinematics solvers** and **LQR/VMC** balance control for highly dynamic terrestrial locomotion.
   `C++` `Kinematics` `LQR/VMC`
 
@@ -62,7 +62,7 @@ I'm a Robotics Engineering student and a highly driven researcher in **Embodied 
   基于达妙 19 自由度双足机器人的二次开发项目。核心聚焦于 Isaac Gym 仿真环境搭建、强化学习步态寻优，以及将 ONNX 策略模型成功部署至真实硬件 (Sim-to-Real)。
   `强化学习 (RL)` `双足机器人` `具身智能`
 
-* **[BPIC: 偏置并联步兵底盘控制器](https://github.com/Tensor-0/rm-biased-parallel-controllerl)**
+* **[BPIC: 偏置并联步兵底盘控制器](https://github.com/Tensor-0/rm-biased-parallel-controller)**
   针对 RoboMaster 偏置并联机构开发的高频底层 C++ 框架。包含复杂的闭链运动学正逆解推导，以及基于 LQR 与 VMC (虚拟模型控制) 的倒立摆平衡控制。
   `C/C++` `运动学与动力学` `平衡控制`
 
