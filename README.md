@@ -40,7 +40,14 @@ I'm a Robotics Engineering student and a highly driven researcher in **Embodied 
   `STM32` `Computer Vision` `Full-Stack`
 
 <br>
+### 📝 LocoWiki: My Developer Brain Dump
+A dedicated space for my daily research logs, bug-fixing chronicles, and hardcore math derivations for embodied AI.
 
+* **[⚡ Click Here to Write a New Daily Log](https://github.com/Tensor-0/LocoWiki/discussions/new?category=💡-每日复盘与碎碎念)** (Shortcut for Maintainer)
+* **[🐧 View Linux Error Logs](https://github.com/Tensor-0/LocoWiki/discussions/categories/linux-踩坑录)** | **[🧮 View RL & Math Derivations](https://github.com/Tensor-0/LocoWiki/discussions/categories/rl-与控制理论推导)**
+
+> **Latest Update:**
+> * 📌 *[4/24] Environment reconstructed: Eradicated nested directories & designed Top-Down software architecture for biased-parallel chassis.*
 ---
 
 <a name="chinese-version"></a>
@@ -73,7 +80,14 @@ I'm a Robotics Engineering student and a highly driven researcher in **Embodied 
 * **[GMFS: 黄金矿工全栈机器人方案](https://github.com/Tensor-0/goldminer-robot-fullstack)**
   独立完成的综合型机器人开发项目。涵盖基于 OpenCV 的工业相机 RGB 灯板及数字识别视觉算法，机械臂精准抓取控制，以及底盘驱动融合。
   `全栈开发` `机器视觉` 
+### 📝 LocoWiki: 个人具身智能开发日志库
+这是我的“第二大脑”，用于沉淀每日开发复盘、底层玄学报错记录以及硬核的机器人数理推导。
 
+* **[⚡ 一键开启今日复盘 (快捷发帖入口)](https://github.com/Tensor-0/LocoWiki/discussions/new?category=💡-每日复盘与碎碎念)**
+* **[🐧 查看 Linux 踩坑录](https://github.com/Tensor-0/LocoWiki/discussions/categories/linux-踩坑录)** | **[🧮 查看 RL 理论推导](https://github.com/Tensor-0/LocoWiki/discussions/categories/rl-与控制理论推导)**
+
+> **📡 最新开发动态：**
+> * 📌 *[4月24日] 环境重构完毕：清扫底盘控制工程的历史包袱，正式确立自顶向下的控制架构蓝图。*
 ---
 
 ### 🛠️ 全栈技术储备 (Technical Stack)
