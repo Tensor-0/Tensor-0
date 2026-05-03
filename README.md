@@ -1,13 +1,6 @@
-<h1 align="center">Tensor-0 | Robotics & Embodied AI Researcher</h1>
 
 <p align="center">
-  <a href="#chinese-version"><b>🇨🇳 简体中文版本</b></a> | <a href="#english-version"><b>🌍 English Version</b></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Tensor-0"><img src="https://img.shields.io/badge/Bipedal_Humanoid-RL_Locomotion-blue?style=for-the-badge&logo=ai"></a>
-  <a href="https://github.com/Tensor-0"><img src="https://img.shields.io/badge/RoboMaster-Full_Stack-E95420?style=for-the-badge&logo=robot"></a>
-  <a href="https://github.com/Tensor-0"><img src="https://img.shields.io/badge/Ubuntu_22.04-Developer-E95420?style=for-the-badge&logo=ubuntu"></a>
+  <a href="#chinese-version"><b>🇨🇳 简体中文版本</b></a> | <a href="#english-version"><b> English Version</b></a>
 </p>
 
 ---
@@ -15,15 +8,14 @@
 <a name="chinese-version"></a>
 ## 🇨🇳 简体中文版本
 
-### 🚀 个人简介
+### 个人简介
 
-你好！我是 **张量 (Tensor-0)**。
+你好！我是 **张量 (Tensor-0)**。本科机器人学在读生。
 
 目前研究方向为**具身人工智能（Embodied AI）**，具体包括**足式机器人的强化学习 (RL) Locomotion** 算法及其物理实体部署。
 
 工程实践中，将运动学闭链解算、LQR/VMC 等数学方法与 AI 算法结合，应用于双足平台与高机动底盘的运动控制。
 
-*欢迎与科研团队及开源同行交流与合作。*
 
 ### 🗂️ 核心项目精选
 
@@ -46,26 +38,18 @@
 * **[GMFS: 黄金矿工全栈机器人方案](https://github.com/Tensor-0/goldminer-robot-fullstack)**
   自主检索机器人系统，集成了 OpenCV 视觉检测、机械臂抓取控制与底盘驱动。
   `全栈开发` `机器视觉`
-
-### 📝 LocoWiki: 个人具身智能开发日志库
-
-我的技术日志库，用于沉淀每日开发复盘、错误排查记录以及机器人数理推导。
-
-* **[⚡ 一键开启今日复盘 (快捷发帖入口)](https://github.com/Tensor-0/LocoWiki/discussions/new?category=💡-每日复盘与碎碎念)**
-* **[🐧 查看 Linux 踩坑录](https://github.com/Tensor-0/LocoWiki/discussions/categories/linux-踩坑录)** | **[🧮 查看 RL 理论推导](https://github.com/Tensor-0/LocoWiki/discussions/categories/rl-与控制理论推导)**
-
 ---
 
 <a name="english-version"></a>
-## 🌍 English Version
+##  English Version
 
-### 🚀 About Me
+###  About Me
 
 I study Robotics Engineering with a focus on **Embodied AI**. My work covers high-speed combat robotic systems and high-DOF bipedal locomotion, with current emphasis on **Reinforcement Learning (RL)** for sim-to-real transfer of articulated robots and robust dynamic gait generation.
 
 *Open to collaborations on open-source robotics, RL algorithms, and related technical work.*
 
-### 🗂️ Featured Research & Projects
+###  Featured Research & Projects
 
 * **[RooCode Plus — Multi-Model Local Proxy Adapter](https://github.com/Tensor-0/roocode-plus)**
   A local proxy adapter for Roo Code, built on FastAPI to intercept and restructure HTTP requests. Dynamically injects missing fields to resolve API format incompatibilities and context truncation between Roo Code and models like DeepSeek. Includes cross-platform automation scripts for installation and testing.
@@ -87,18 +71,11 @@ I study Robotics Engineering with a focus on **Embodied AI**. My work covers hig
   Full-stack autonomous retrieval system integrating OpenCV-based object detection with STM32 chassis control.
   `STM32` `Computer Vision` `Full-Stack`
 
-### 📝 LocoWiki: Developer Log
-
-A workspace for daily research logs, debugging notes, and math derivations for embodied AI.
-
-* **[⚡ Write a Daily Log](https://github.com/Tensor-0/LocoWiki/discussions/new?category=💡-每日复盘与碎碎念)**
-* **[🐧 Linux Error Logs](https://github.com/Tensor-0/LocoWiki/discussions/categories/linux-踩坑录)** | **[🧮 RL & Math Derivations](https://github.com/Tensor-0/LocoWiki/discussions/categories/rl-与控制理论推导)**
-
 ---
 
-### 🛠️ 全栈技术储备 (Technical Stack)
+###  全栈技术储备 (Technical Stack)
 
-**🤖 算法与仿真 (AI & Simulation)**
+** 算法与仿真 (AI & Simulation)**
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Isaac_Gym-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
@@ -106,7 +83,7 @@ A workspace for daily research logs, debugging notes, and math derivations for e
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
 </p>
 
-**💻 软件与硬件 (Software & Hardware)**
+** 软件与硬件 (Software & Hardware)**
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -116,7 +93,7 @@ A workspace for daily research logs, debugging notes, and math derivations for e
 
 ---
 
-### 🤝 联系方式 (Connect with Me)
+### 联系方式 (Connect with Me)
 
 <p>
   <a href="mailto:3247167757@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -131,5 +108,5 @@ A workspace for daily research logs, debugging notes, and math derivations for e
 </p>
 
 <p align="center">
-  <i>"Iterating on the future of embodied locomotion, one tensor at a time." 🤖</i>
+  <i>"Iterating on the future of embodied locomotion, one tensor at a time." </i>
 </p>
