@@ -1,12 +1,12 @@
 
 <p align="center">
-  <a href="#chinese-version"><b>🇨🇳 简体中文版本</b></a> | <a href="#english-version"><b> English Version</b></a>
+  <a href="#chinese-version"><b>简体中文版本</b></a> | <a href="#english-version"><b> English Version</b></a>
 </p>
 
 ---
 
 <a name="chinese-version"></a>
-## 🇨🇳 简体中文版本
+##  简体中文版本
 
 ### 个人简介
 
