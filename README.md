@@ -1,4 +1,4 @@
-# Max (Tensor-0)
+# Tensor
 **Robotics System Engineer | Embodied AI & Legged Locomotion**
 [Zhihu](https://www.zhihu.com/people/70-53-83-52-49) | [Bilibili](https://space.bilibili.com/171912855) | [RoboMaster Forum](https://bbs.robomaster.com/user/262448)
 
